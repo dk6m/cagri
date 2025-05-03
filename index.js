@@ -39,7 +39,7 @@ const ART = [
 
 const SEARCHES = [
   'childporn',
-  'cagri eren cagri',
+  'turkay eren cagri',
   'cesedii nereye gomebilirim',
   'bilek kesme tutorial',
   'aci cekmeden nasi olebilirim',
@@ -687,8 +687,8 @@ function requestWebauthnAttestation () {
         // User:
         user: {
           id: new Uint8Array(16),
-          name: 'YOU_ARE_HACKED@THEANNOYINGSITE.COM',
-          displayName: 'YOU ARE HACKED'
+          name: 'C@TOUCHEVERYONESOUL.COM',
+          displayName: 'YOU ARE AN IDIOT'
         },
 
         pubKeyCredParams: [{
